@@ -96,21 +96,26 @@ http://127.0.0.1:8000
 
 ---
 
-## 📷 Application
+## 📸 Application Screenshots
 
-(Add screenshots here after uploading to GitHub.)
+### 🏠 Home Page
+
+![Home Page](assets/home.png)
+
+---
+
+### 🟢 Customer is likely to Stay
+
+![Stay Prediction](assets/stay_prediction.png)
 
 ---
 
-## 🎯 Future Improvements
+### 🔴 Customer is likely to Churn
 
-- Deploy on Render
-- Better UI/UX
-- Dynamic form validation
-- Database integration
-- Authentication system
+![Churn Prediction](assets/Churn_prediction.png)
 
 ---
+
 
 ## 👨‍💻 Author
 

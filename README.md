@@ -73,7 +73,7 @@ CustomerChurnProject/
 Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone <(https://github.com/vinayakparashar01/Customer-Churn-Predictor.git)>
 ```
 
 Install dependencies
